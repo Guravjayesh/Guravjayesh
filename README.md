@@ -6,7 +6,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://www.linkedin.com/in/jayesh-gurav-6003a4215/)
+[![LinkedIn](www.linkedin.com/in/jayesh-gurav-6003a4215)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jayesh__gurav)
 
 
