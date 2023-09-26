@@ -17,10 +17,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Guravjayesh&theme=buefy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Guravjayesh&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-I believe no grades has the power to decide our future
+
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+Hey fellow engineer-in-the-making! Grades can't engineer our destiny's blueprint.
+
 
 
 
