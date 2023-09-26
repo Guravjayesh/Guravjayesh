@@ -20,7 +20,7 @@
 
 
 ### ✍️ Random Dev Quote
-Hey fellow engineer-in-the-making! Grades can't engineer our destiny's blueprint.
+# Hey fellow engineer-in-the-making! Grades can't engineer our destiny's blueprint.
 
 
 
