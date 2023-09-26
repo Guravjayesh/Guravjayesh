@@ -19,8 +19,8 @@
 
 
 
-### ✍️ Random Dev Quote
-#### Hey fellow engineer-in-the-making! Grades can never engineer the destiny's blueprint.
+## ✍️ Random Dev Quote
+### Hey fellow engineer-in-the-making! Grades can never engineer the destiny's blueprint.
 
 
 
