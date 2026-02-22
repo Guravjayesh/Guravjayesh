@@ -16,7 +16,6 @@
 
 
 
-## ✍️ Random Dev Quote
 ### College Days.
 
 
