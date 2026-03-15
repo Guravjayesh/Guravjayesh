@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me - COLLEGE DAYS:
 🚀 Turning Ideas into Software Magic! 🛠️<br>
 📊 From Data to Discoveries! 🌌 AI Explorer, Tech Enthusiast ✨
 
