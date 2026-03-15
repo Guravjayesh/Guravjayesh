@@ -1,4 +1,4 @@
-# 💫 About Me - COLLEGE DAYS:
+# 💫 About Me - Works during my College Day:
 🚀 Turning Ideas into Software Magic! 🛠️<br>
 📊 From Data to Discoveries! 🌌 AI Explorer, Tech Enthusiast ✨
 
