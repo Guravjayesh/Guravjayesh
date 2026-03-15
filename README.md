@@ -2,7 +2,9 @@
 🚀 Turning Ideas into Software Magic! 🛠️<br>
 📊 From Data to Discoveries! 🌌 AI Explorer, Tech Enthusiast ✨
 
-🌟 My Work: [Portfolio](https://guravjayesh.github.io/Jayesh_R_Gurav/)
+🌟 Current Professional Portfolio: [Portfolio](https://jayeshgurav.com)
+
+🌟 College Portfolio: [Portfolio](https://guravjayesh.github.io/Jayesh_R_Gurav/)
 
 
 ## 🌐 Socials:
@@ -16,7 +18,6 @@
 
 
 
-### College Days.
 
 
 
