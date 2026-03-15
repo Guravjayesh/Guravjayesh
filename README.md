@@ -1,6 +1,6 @@
-# 🌟 Current Professional Portfolio: [Portfolio](https://jayeshgurav.com)
+# 🌟 Portfolio: [Portfolio](https://jayeshgurav.com)
 
-# 💫 About Me - Works during my College Day:
+### 💫 About Me - Works during my College Day:
 🚀 Turning Ideas into Software Magic! 🛠️<br>
 📊 From Data to Discoveries! 🌌 AI Explorer, Tech Enthusiast ✨
 
