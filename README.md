@@ -1,6 +1,6 @@
 # My Portfolio Page: [Portfolio](https://jayeshgurav.com)
 ## Current Role
-Novigo Solutions (R Systems) – Present
+Novigo Solutions (R Systems) -
 [Data Engineer] – Present
 
 ### 💫 About Me - Works during my College Day:
